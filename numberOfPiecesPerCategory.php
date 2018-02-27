@@ -8,6 +8,10 @@ echo "<h5>~ calculate the number of pieces per category ~</h5>";
  * 2. numarul de bucati pe categorii(ex. 'categ mma 10 bucati' etc);
  */
 
+/**
+ * @param $produse
+ * @return array
+ */
 function bucatiPeCategorii($produse)
 {
     $totalBucati = array();
