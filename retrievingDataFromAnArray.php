@@ -1,6 +1,6 @@
 <?php
 
-echo "<h4>~  ~</h4>";
+echo "<h4>~ retrieving data from an array ~</h4>";
 
 $persoane = array(
     8 => array (
